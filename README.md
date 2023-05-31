@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adolfo!  <a href="https://www.linkedin.com/in/gomezacosta/">Cybersecurity Professional</a>, <br/><a href="https://github.com/gomezacosta">Part-time Programmer</a>, <a href="gomezacosta.com">and Homelab\Cloud Enthusiast</a></h1>
+<h1>Hi, I'm Adolfo!  <a href="https://www.linkedin.com/in/gomezacosta/">Cybersecurity Professional</a>, <br/><a href="https://github.com/gomezacosta">Part-time Programmer</a>, and a <a href="gomezacosta.com">Homelab\Cloud Enthusiast</a></h1>
 
 <h2>👨‍💻 Cybersecurity & Cloud Security Projects:</h2>
 
